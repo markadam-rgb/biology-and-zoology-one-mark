@@ -1,0 +1,10 @@
+{
+  "name": "Bio One-Marks · Class 12 Biology Quiz",
+  "short_name": "Bio One-Marks",
+  "description": "Practice one-mark MCQs for Class 12 Biology — Zoology & Botany, 323 questions across 33 sets.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "orientation": "portrait-primary"
+}
