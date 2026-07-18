@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markadam-rgb.github.io/biology-and-zoology-one-mark/sitemap.xml
